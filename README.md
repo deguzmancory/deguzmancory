@@ -1,5 +1,4 @@
 # Thanks for stopping by!
-<hr>
 
 **Full Stack Engineer**
 
