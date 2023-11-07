@@ -6,19 +6,16 @@
 I am currently looking for Full Stack or Front End positions with a remote or hybrid structure located in Las Vegas!
 
 ## About Me
-<hr>
 
 - I am currently working on a group project called [CommuniTEA](https://github.com/CommuniTEAM/CommuniTEA). "CommuniTEA" is a unique application that caters to both businesses and the community, bringing together tea enthusiasts in search of their favorite brews with local establishments ready to serve.
 
 - My most recent application that I had developed is called [Pawsitive Health](https://pawsitive-health.gitlab.io/pawsitive-health/). "Pawsitive Health" is a web application designed with pet owners in mind, offering a unified platform to securely manage and store essential records for their cherished companions.
 
 ## My Skill Set
-<hr>
 
 | Frontend/Design            | Backend/Database           | DevOps/Deployment          |
 |----------------------------|----------------------------|----------------------------|
 | ![JavaScript](https://skillicons.dev/icons?i=js,ts,react,html,css,figma,mui) | ![Node.js](https://skillicons.dev/icons?i=python,django,nodejs,redux,postgres,mysql) | ![AWS](https://skillicons.dev/icons?i=aws,git,github,gitlab,jenkins) |
-<hr>
 
 ## Lets Connect!
 
